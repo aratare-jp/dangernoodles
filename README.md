@@ -7,7 +7,7 @@ This project aims to:
 - Modernise everything to Kotlin, and
 - General cleaning and ordering.
 
-This proejct is just to keep the spirit and "good old time" alive with no intention to make new features whatsoever. I may change my mind in the future who knows ¯\_(ツ)_/¯
+This proejct is just to keep the spirit and "good old time" alive with no intention to make new features whatsoever. I may change my mind in the future who knows ¯\\_(ツ)_/¯
 
 ## Contributing
 Feel free to contribute with any feature you want. Obviously the bar is low but I intend to at least keep the code base clean.
